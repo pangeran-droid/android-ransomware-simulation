@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  An educational project and system security assignment designed to demonstrate how a "lock-screen" ransomware mechanism operates within the Android operating system, built using <strong>Flutter</strong> and <strong>native Kotlin</strong>.
+  An educational project and system security designed to demonstrate how a "lock-screen" ransomware mechanism operates within the Android operating system, built using <strong>Flutter</strong> and <strong>native Kotlin</strong>.
 </p>
 
 ---
