@@ -25,13 +25,13 @@
 
 ## Table of Contents
 
-- [About the Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Technologies Used](#-technologies-used)
-- [Architecture](#-architecture)
-- [Installation & Testing](#-installation--testing)
-- [Security Analysis & Limitations](#-security-analysis--limitations)
-- [Legal & Ethical Warning](#-legal--ethical-warning)
+- [About the Project](#about-the-project)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [Architecture](#architecture)
+- [Installation & Testing](#installation--testing)
+- [Security Analysis & Limitations](#security-analysis--limitations)
+- [Legal & Ethical Warning](#legal--ethical-warning)
 
 ---
 
