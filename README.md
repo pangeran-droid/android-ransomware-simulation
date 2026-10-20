@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon/app-logo.png" alt="Flutter Logo" width="200">
+  <img src="assets/icon/app-logo.png" alt="Flutter Logo" width="150">
 </p>
 
 <h1 align="center">Android Ransomware Simulation</h1>
@@ -87,7 +87,7 @@ android/app/src/main/
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/pangeran-droid/android-ransomware-simulation.git](https://github.com/pangeran-droid/android-ransomware-simulation.git)
+git clone https://github.com/pangeran-droid/android-ransomware-simulation.git
 cd android-ransomware-simulation
 ```
 
